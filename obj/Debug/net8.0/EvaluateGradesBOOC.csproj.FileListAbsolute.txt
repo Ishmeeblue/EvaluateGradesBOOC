@@ -1,0 +1,14 @@
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\bin\Debug\net8.0\EvaluateGradesBOOC.exe
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\bin\Debug\net8.0\EvaluateGradesBOOC.deps.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\bin\Debug\net8.0\EvaluateGradesBOOC.runtimeconfig.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\bin\Debug\net8.0\EvaluateGradesBOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\bin\Debug\net8.0\EvaluateGradesBOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.AssemblyInfoInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.AssemblyInfo.cs
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.csproj.CoreCompileInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\refint\EvaluateGradesBOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\EvaluateGradesBOOC.genruntimeconfig.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\EvaluateGradesBOOC\EvaluateGradesBOOC\obj\Debug\net8.0\ref\EvaluateGradesBOOC.dll
